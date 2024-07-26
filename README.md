@@ -1,6 +1,8 @@
-Hello 👋, I'm a Software Engineer
 
-## Mobile Development | Data Analysis ##
+<div align="center">
+  <h1>Hello 👋, I'm a Software Engineer</h1>
+  <h2>Mobile Development | Data Analysis</h2>
+</div>
 
 I'm a software engineer specializing in mobile app development and data analysis with a strong focus on delivering high-quality solutions. My expertise spans across multiple programming languages and tools, ensuring efficient and scalable applications.
 
