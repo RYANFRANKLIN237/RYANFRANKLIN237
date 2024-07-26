@@ -13,8 +13,8 @@ I'm a software engineer specializing in mobile app development and data analysis
 
 
 ### Languages and Tools:
-[![Dart](https://github.com/tandpfun/skill-icons/blob/main/icons/Dart.svg)](https://github.com/tandpfun/skill-icons)
-[![Kotlin](https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin.svg)](https://github.com/tandpfun/skill-icons)
+[![Dart](https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg)](https://github.com/tandpfun/skill-icons)
+[![Kotlin](https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg)](https://github.com/tandpfun/skill-icons)
 [![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)](https://github.com/tandpfun/skill-icons)
 [![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)](https://github.com/tandpfun/skill-icons)
 
@@ -22,6 +22,6 @@ I'm a software engineer specializing in mobile app development and data analysis
 [![Android Studio](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg)](https://github.com/tandpfun/skill-icons)
 [![Firebase](https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg)](https://github.com/tandpfun/skill-icons)
 [![Google Cloud](https://github.com/tandpfun/skill-icons/blob/main/icons/GoogleCloud-Dark.svg)](https://github.com/tandpfun/skill-icons)
-[![VSCode](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium.svg)](https://github.com/tandpfun/skill-icons)
+[![VSCode](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)](https://github.com/tandpfun/skill-icons)
 [![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Dark.svg)](https://github.com/tandpfun/skill-icons)
 
