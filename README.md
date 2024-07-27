@@ -14,5 +14,5 @@ I'm a software engineer specializing in mobile app development and data analysis
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,java,python,r,flutter,figma,androidstudio,firebase,vscode,mysql,gcp,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,java,androidstudio,firebase,figma,gcp,git,python,vscode,mysql,r&perline=6)](https://skillicons.dev)
 
