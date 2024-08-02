@@ -16,3 +16,7 @@ I'm a software engineer specializing in mobile app development and data analysis
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,java,androidstudio,firebase,figma,gcp,git,python,vscode,mysql,r&perline=6)](https://skillicons.dev)
 
+
+### Github stats:
+[![trophy](https://github-profile-trophy.vercel.app/?username=RYANFRANKLIN237&theme=onedark&title=-Experience,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
