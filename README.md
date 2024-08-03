@@ -18,7 +18,7 @@ I'm a software engineer specializing in mobile app development and data analysis
 
 
 ### Github stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=RYANFRANKLIN237&theme=onedark&title=-Experience,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RYANFRANKLIN237&theme=dracula&title=-Experience,-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RYANFRANKLIN237&layout=donut&theme=dracula&exclude_repo=Job-matching-platform,DSA-s,Brain-tumor-classification)](https://github.com/anuraghazra/github-readme-stats)
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RYANFRANKLIN237&rank_icon=github&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
