@@ -11,6 +11,7 @@ I'm a software engineer specializing in mobile app development and data analysis
 - 👯 I’m looking to collaborate on innovative tech solutions
 - 🤔 Ask me about mobile development, data analysis, or cloud integrations
 - 📫 How to reach me: [My email](mailto:ngometune@gmail.com)
+- 👯 Live App on Playstore, Explore: [InstaKnow](https://play.google.com/store/apps/details?id=com.savanna.instaknow)
 
 
 ### Languages and Tools:
